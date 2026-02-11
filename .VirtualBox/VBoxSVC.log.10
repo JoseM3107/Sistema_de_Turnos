@@ -1,0 +1,225 @@
+00:00:00.006748 main     VirtualBox COM Server 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.006752 main     Log opened 2024-03-12T03:16:03.667124200Z
+00:00:00.006753 main     Build Type: release
+00:00:00.006800 main     OS Product: Windows 11
+00:00:00.006802 main     OS Release: 10.0.22621
+00:00:00.006803 main     OS Service Pack: 
+00:00:00.042330 main     DMI Product Name: HP Laptop 15-dw1xxx
+00:00:00.055989 main     DMI Product Version: Type1ProductConfigId
+00:00:00.056057 main     Firmware type: UEFI
+00:00:00.056829 main     Secure Boot: Disabled
+00:00:00.056894 main     Host RAM: 7996MB (7.8GB) total, 982MB available
+00:00:00.056919 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.056919 main     Process ID: 18000
+00:00:00.056920 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.241077          VirtualBox: object creation starts
+00:00:00.241665          Home directory: 'C:\Users\josej\.VirtualBox'
+00:00:00.242457          Installed Drivers:
+00:00:00.261507            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.14.11095)
+00:00:00.261908            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.14.11095)
+00:00:00.262247            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.14.11095)
+00:00:00.262579            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.14.11095)
+00:00:00.267954          usbLibGetDevices: Starting USB device enumeration
+00:00:00.287856          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.288044          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.297194          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.297558          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00a)
+00:00:00.297897          USB: Unknown USB device detected (idVendor: 0x30c9, idProduct: 0x0035)
+00:00:00.390215          HostDnsMonitor: initializing
+00:00:00.409724          HostDnsMonitor: updating information
+00:00:00.409823          HostDnsMonitor: old information
+00:00:00.409824            no server entries
+00:00:00.409826            no domain set
+00:00:00.409826            no search string entries
+00:00:00.409827          HostDnsMonitor: new information
+00:00:00.409828            server 1: 192.168.1.1
+00:00:00.409829            no domain set
+00:00:00.409830            no search string entries
+00:00:00.421071          VD: VDInit finished with VINF_SUCCESS
+00:00:00.428232          VirtualBox: object created
+00:00:00.689351          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.696246          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:00.696879          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.703598          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:00.707979          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.711624          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:02.193127          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.198582          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:04.719236          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.725010          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:05.116080          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.125927          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:38.803075          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:38.807906          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:52.571552          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:52.574536          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:52.576689          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:52.579847          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.638737 createBase Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.643877 createBase Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.658602          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:01:26.660985          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:01:26.661211          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.664131          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.672423          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.675887          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.677455          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:01:26.680314          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:01:26.710678          UnattendedInstaller::initInstaller: UnattendedInstaller::savePassedData(): 
+00:01:26.762275          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.766723          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.766894          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.770103          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:26.770377          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:01:26.772868          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:01:26.829399          Launched VM: 2312357216 pid: 9356 (0x248c) frontend: GUI/Qt name: Ubuntu
+00:01:26.850486          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:26.855145          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:27.223285          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:35.974339          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:36.577239          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:41.707746          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:41.989923          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.993156          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:41.994022          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:41.998190          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:41.999243          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:42.006153          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:42.007566          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:42.010762          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:42.011840          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:42.016449          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:01:42.133737          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:01:42.137749          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:01:42.142152          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:01:42.172380          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:01:44.123823          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:44.124528          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:44.195139          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:47.057802          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:01:47.061072          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:01:47.072053          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:00.429998          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:02:00.434321          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:02:00.445470          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:54.173082          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:02:54.177692          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:02:54.208917          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:55.726308          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:02:55.730806          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:02:55.741244          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:56.509062          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:02:56.514203          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:02:56.555226          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:56.600094          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:12:37.587023 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:12:37.599514 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:12:37.599639 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:12:37.600335 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:14:41.547893 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:14:41.560599 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:14:41.560711 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:14:41.560922 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:15:01.138490 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:15:01.194394 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:15:01.194550 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:15:01.194815 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:16:29.026969 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:16:29.082838 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:16:29.082994 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:16:29.083293 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:16:29.532071 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:16:29.534890 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:16:29.536137 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:16:29.539956 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:16:30.035301 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:16:30.035614 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:16:30.035702 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:16:30.035960 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:22:22.911296          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:22:22.919453          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:22:23.005925          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:09.840979          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:27:09.848901          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:27:09.868226          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:51.494508          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:27:51.499891          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:27:51.521695          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:32:03.231676 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:03.244483 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:32:03.244577 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:03.244877 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:32:04.529312 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:04.541550 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:32:04.541637 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:04.541772 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:45:06.110012          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:45:09.095240          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:45:09.100926          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:45:09.120888          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:45:09.168313          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:45:09.736965          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:45:09.741875          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:45:09.763296          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:45:11.300558          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:45:13.606215          Launched VM: 2312628976 pid: 14748 (0x399c) frontend: GUI/Qt name: Ubuntu
+00:45:13.627514          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:45:20.653404          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:45:21.555266          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:45:26.007225          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:45:26.444145          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:45:26.450147          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:45:27.701207          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:45:27.742301          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:48:28.692777          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:48:30.666437          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:48:30.740453          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:48:30.744883          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+00:48:30.764638          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:48:32.297317          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:49:06.879622          Launched VM: 2312524896 pid: 9132 (0x23ac) frontend: GUI/Qt name: Ubuntu
+00:49:06.901763          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:49:13.158170          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:49:13.708016          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:49:18.721275          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:49:19.278664          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:49:19.287413          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:49:21.127855          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:49:21.176312          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:46.257444 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:50:46.270502 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:50:46.270811 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:52:21.529865 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:52:21.542772 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:52:21.542847 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:52:21.543032 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:52:21.543094 USBPROXY USB: Unknown USB device detected (idVendor: 0x30c9, idProduct: 0x0035)
+01:00:05.602889          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:00:05.610602          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:00:05.639162          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:00:07.273799          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:00:07.281346          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:00:07.306297          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:00:55.438790          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:00:55.443244          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:00:55.478616          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:00:57.148137          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:00:57.153699          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:00:57.169497          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:00:59.357766          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:00:59.363990          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:00:59.383302          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:01:06.948118          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:01:06.951701          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:01:06.960219          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:07:15.694411          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+01:07:15.855286          Saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+01:07:15.861300          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vbox"
+01:07:15.901191          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+01:07:17.478967          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+01:09:35.044485 main     VirtualBox: object deletion starts
+01:09:35.044886 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\josej\VirtualBox VMs\Ubuntu\Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:09:35.046835 main     HostDnsMonitor: shutting down ...
+01:09:35.047416 main     HostDnsMonitor: shut down
+01:09:35.051336 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:09:35.051681 main     VirtualBox: object deleted

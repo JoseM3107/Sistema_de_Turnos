@@ -1,0 +1,199 @@
+00:00:00.006686 main     VirtualBox COM Server 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.006688 main     Log opened 2025-09-10T00:54:41.327968200Z
+00:00:00.006689 main     Build Type: release
+00:00:00.006892 main     OS Product: Windows 11
+00:00:00.006894 main     OS Release: 10.0.26100
+00:00:00.006894 main     OS Service Pack: 
+00:00:00.048614 main     DMI Product Name: HP Laptop 15-dw1xxx
+00:00:00.064903 main     DMI Product Version: Type1ProductConfigId
+00:00:00.064913 main     Firmware type: UEFI
+00:00:00.065334 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.067912 main     Host RAM: 7996MB (7.8GB) total, 1409MB available
+00:00:00.068410 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.068412 main     Process ID: 14484
+00:00:00.068412 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.160102          VirtualBox: object creation starts
+00:00:00.161582          Home directory: 'C:\Users\josej\.VirtualBox'
+00:00:00.162131          Installed Drivers:
+00:00:00.194614          Loading settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.202350          usbLibGetDevices: Starting USB device enumeration
+00:00:00.216134          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.216775          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.218831          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.220825          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00a)
+00:00:00.221592          USB: Unknown USB device detected (idVendor: 0x30c9, idProduct: 0x0035)
+00:00:00.349336          netIfIsWireless: CreateFile on '\\.\{5414AFA3-3B7E-4B06-8FD9-384AEE3950F9}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.357491          HostDnsMonitor: initializing
+00:00:00.364272          HostDnsMonitor: updating information
+00:00:00.364854          HostDnsMonitor: old information
+00:00:00.364855            no server entries
+00:00:00.364856            no domain set
+00:00:00.364856            no search string entries
+00:00:00.364857          HostDnsMonitor: new information
+00:00:00.364857            server 1: 200.21.200.10
+00:00:00.364858            server 2: 200.21.200.80
+00:00:00.364858            no domain set
+00:00:00.364859            no search string entries
+00:00:00.374799          VD: VDInit finished with VINF_SUCCESS
+00:00:00.392090          Loading settings file "C:\Users\josej\VirtualBox VMs\windows10\windows10.vbox" with version "1.19-windows"
+00:00:00.414574          Loading settings file "C:\Users\josej\VirtualBox VMs\WinS2019\WinS2019.vbox" with version "1.19-windows"
+00:00:00.416601          VirtualBox: object created
+00:00:00.535855          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.541976          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:00.542223          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.545572          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:00.545854          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.549345          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:03.050686          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:07.142291          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.146674          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:07.154969          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:18.669297          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.676947          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:18.677474          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.684279          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:18.708171 DeleteVM Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.712490 DeleteVM Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:18.719799          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:18.723478          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:00:18.728945          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {524f12cf-374f-406b-ad4e-0d8989ce342a}}, preserve=false aResultDetail=0
+00:00:18.738153          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {524f12cf-374f-406b-ad4e-0d8989ce342a}}, preserve=false aResultDetail=0
+00:00:18.750746          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:04:52.913211 dns-monitor HostDnsMonitor: updating information
+00:04:52.913260 dns-monitor HostDnsMonitor: unchanged
+00:16:20.369318          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:20.375864          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:16:42.712064          Unattended: .disk/info: Unknown: diskname='Kali GNU/Linux 2025.2rc1 "Kali-last-snapshot"'
+00:16:42.741557          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:42.744737          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:25.791764 createBase Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:25.795842 createBase Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:25.808610          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:17:25.813955          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:17:25.814139          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:25.817370          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:25.827758          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:25.831418          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:25.836253          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:25.840754          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:25.841716          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:17:25.844759          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:17:25.878101          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:25.882350          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:26.244233          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:17:28.206924          Launched VM: 3242893376 pid: 10980 (0x2ae4) frontend: GUI/Qt name: Kali Linux
+00:17:28.226656          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:17:35.093273          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:17:35.609388          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:17:40.681214          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:17:40.857527          netIfIsWireless: CreateFile on '\\.\{5414AFA3-3B7E-4B06-8FD9-384AEE3950F9}' failed with rcWin=2 (0x2) - ignoring
+00:17:48.677414 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:17:48.691371 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:17:48.691524 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:17:48.691878 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:17:49.496440 SVCHelper Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:49.508701 SVCHelper Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:49.517388 SVCHelper Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:49.534225 SVCHelper Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:49.540275 SVCHelper Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:49.549454 SVCHelper Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:49.552091 SVCHelper Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:49.562108 SVCHelper Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:49.563948 SVCHelper Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:49.576359 SVCHelper Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:49.954739 dns-monitor HostDnsMonitor: updating information
+00:17:49.954768 dns-monitor HostDnsMonitor: unchanged
+00:17:52.411872          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.418199          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.421558          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.425446          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.427883          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.431258          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.433619          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.439288          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.460667          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.464794          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.465749          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:17:52.471376          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:17:52.506893          netIfIsWireless: CreateFile on '\\.\{5414AFA3-3B7E-4B06-8FD9-384AEE3950F9}' failed with rcWin=2 (0x2) - ignoring
+00:17:52.757811          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:17:52.761591          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:17:52.765262          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:17:52.766063          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:17:52.778903          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:17:53.104757 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:17:53.116854 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:17:53.116959 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:17:53.117154 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:17:54.290452 dns-monitor HostDnsMonitor: updating information
+00:17:54.290511 dns-monitor HostDnsMonitor: unchanged
+00:17:54.720437          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:17:54.721216          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:17:54.783298          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:18:30.430464          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:18:30.435665          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:18:30.491164          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:18:31.128120          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:18:31.131766          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:18:31.159824          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:09.190696          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:19:09.196648          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:19:09.229038          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:09.521957          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:19:09.526434          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:19:09.542023          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:12.347608          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:12.355333          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:12.384152          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:30.259621          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:30.263435          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:30.277926          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:32.331820          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:32.335096          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:32.345734          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:33.050769          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:33.055707          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:33.065957          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:41.473583          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:41.479066          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:41.492116          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:29:50.427926          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:29:50.434157          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:29:50.492744          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:30:14.163840          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:30:14.170569          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:30:14.183424          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:44:05.994506          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:44:09.571768          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:44:09.579588          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:44:09.618567          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:44:09.650266          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:44:10.170303          Saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:44:10.173691          Finished saving settings file "C:\Users\josej\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:44:10.196513          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:44:11.274456          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:44:22.599401          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:44:22.607320          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:44:22.607804          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:44:22.612621          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:44:22.623012          Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:44:22.631604          Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:44:22.632240 DeleteVM Saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:44:22.640615          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {6f9334f3-a153-4693-b360-4dedeafd12d2}}, preserve=false aResultDetail=0
+00:44:22.644877 DeleteVM Finished saving settings file "C:\Users\josej\.VirtualBox\VirtualBox.xml"
+00:44:22.654955          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {6f9334f3-a153-4693-b360-4dedeafd12d2}}, preserve=false aResultDetail=0
+00:44:22.664317          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:48:03.421041 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:48:03.437921 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:48:03.438311 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:48:03.440975 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:48:49.399881 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:48:49.416408 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:48:49.416516 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2f57fbd8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:48:49.416748 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:53:33.320287 main     VirtualBox: object deletion starts
+00:53:33.320471 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\josej\VirtualBox VMs\windows10\windows10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:53:33.329796 main     HostDnsMonitor: shutting down ...
+00:53:33.330432 main     HostDnsMonitor: shut down
+00:53:33.347693 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:53:33.349936 main     VirtualBox: object deleted

@@ -1,0 +1,35 @@
+00:00:00.813117 VirtualBox GUI VM Selector Window 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.813119 Log opened 2025-09-10T00:54:41.817146300Z
+00:00:00.813119 Build Type: release
+00:00:00.813122 OS Product: Windows 11
+00:00:00.813123 OS Release: 10.0.26100
+00:00:00.813124 OS Service Pack: 
+00:00:00.831137 DMI Product Name: HP Laptop 15-dw1xxx
+00:00:00.836334 DMI Product Version: Type1ProductConfigId
+00:00:00.836348 Firmware type: UEFI
+00:00:00.836718 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.836736 Host RAM: 7996MB (7.8GB) total, 1400MB available
+00:00:00.836739 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.836739 Process ID: 9448
+00:00:00.836739 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.837163 Qt version: 5.15.2
+00:00:00.838396 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.898278 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.312174 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:26.118619 GUI: UIMediumEnumerator: Medium with key={{cdbf99d2-b376-4839-9c0d-d0e5047c7c43}} created
+00:17:26.226309 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:53.091801 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:30.784744 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:18:31.470582 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:09.542397 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:09.854964 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:12.696648 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:30.588928 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:32.658999 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:33.379519 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:41.805530 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:50.789856 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:30:14.496171 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:44:09.913727 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:53:27.557512 GUI: UICommon: Handling aboutToQuit request..
+00:53:28.726454 GUI: UICommon: aboutToQuit request handled!
